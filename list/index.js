@@ -18,7 +18,7 @@ exports.handler =  function(event, context, callback) {
           "supported_formats": ["csv_zip"],  \
           "supported_formattings": ["unformatted"], \
           "supported_visualization_formattings": ["noapply"], \
-          "supported_download_settings": ["push", "url"], \
+          "supported_download_settings": ["push", "url"] \
         } \
       ] \
     } \
